@@ -1,0 +1,8 @@
+mcstatus
+sqlalchemy
+pymysql
+pymongo
+discord.py
+watchdog
+pyyaml
+argh
